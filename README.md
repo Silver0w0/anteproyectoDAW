@@ -28,8 +28,8 @@ Las funcionalidades descritas anteriormente posiblemente se vayan añadiendo nue
 
 Este proyecto no requiere hardware u otros medios materiales para su realización más allá de mi propio equipo informático y conexión a internet.
 
-Respecto al Software utilizado será principalmente JavaScript siendo que se usará la librería de DiscordJS de NodeJS. Haciendo que este proyecto sea realizado como un proyecto de NodeJS. Siendo posiblemente necesario el uso de otras librerías para la creación del mismo. 
-Para las bases de datos de este proyecto en un principio se tiene pensado usar MongoDB.
+Respecto al Software utilizado será principalmente [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) siendo que se usará la librería de [DiscordJS](https://discord.js.org/) de [NodeJS](https://nodejs.org/en/). Haciendo que este proyecto sea realizado como un proyecto de NodeJS. Siendo posiblemente necesario el uso de otras librerías para la creación del mismo. 
+Para las bases de datos de este proyecto en un principio se tiene pensado usar [MongoDB](https://www.mongodb.com/)
 Respecto a los frameworks que se usarán para la creación de la web del bot todavía se están barajando opciones como pueden ser React, Express.js o Next.js.
 El despliegue del cliente web se realizará mediante Versel y respecto al alojamiento del mismo se está barajando entre OVH, Contabo, Railway, Render y otras plataformas.
 
